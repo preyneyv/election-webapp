@@ -1,0 +1,19 @@
+{
+  "name": "election-webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:preyneyv/election-webapp",
+  "author": "Pranav Nutalapati <pranavnutalapati@gmail.com>",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "mongoose": "^5.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
