@@ -1,0 +1,1 @@
+const { Position, Candidate } = include('database')

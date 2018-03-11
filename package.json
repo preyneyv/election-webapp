@@ -9,9 +9,11 @@
   },
   "license": "MIT",
   "dependencies": {
+    "client-sessions": "^0.8.0",
     "express": "^4.16.2",
     "express-fileupload": "^0.4.0",
-    "mongoose": "^5.0.9"
+    "mongoose": "^5.0.9",
+    "socket.io": "^2.0.4"
   },
   "devDependencies": {
     "nodemon": "^1.17.1"
